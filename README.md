@@ -1,14 +1,13 @@
+> About this fork
+
+* This fork includes other forks of [ipwndfu](https://github.com/axi0mX/ipwndfu)
+
+* Thanks to: @LinusHenze, @synackuk, @Mini-Exploit, @DanielVolt
+
 ![](repo/ipwndfu.png)
 # Open-source jailbreaking tool for many iOS devices
 
-
 **Read [disclaimer](#disclaimer) before using this software.*
-
-## About this fork
-
-* This fork includes other forks
-
-* Thanks to: @LinusHenze, @synackuk, @Mini-Exploit, @DanielVolt
 
 ## checkm8
 
